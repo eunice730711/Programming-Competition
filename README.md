@@ -17,3 +17,6 @@ My coding practice
       <li>UVa11572 Find longest unique sequence</li>
     </ul>
 </div>
+
+
+Reference: Competitive-Programming-3 by Steven & Felix
