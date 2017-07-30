@@ -1,0 +1,6 @@
+freopen("input.txt","r",stdin);
+freopen("output.txt","w",stdout);
+
+fstream outfile,infile;
+infile.open("pie_progress_example_input.txt",ios::in);
+outfile.open("pie_progress_example_out.txt",ios::out);
